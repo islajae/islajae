@@ -1,5 +1,9 @@
 <h1>Hi, I'm Isla! <br/><a href="https://www.linkedin.com/in/isla-altamirano-04300b106">Marketing Executive</a>, <a href="https://github.com/islajae">Data Professional</a>, <a href="https://fowldisposition.com">Small Business Owner</a></h1>
 
+<h2>👩 About Me:</h2>
+
+My previous experience in marketing has helped me understand consumer behavior and trends better which helped me transition into the field of data analytics and data science. Leveraging my expertise in analyzing market data, I am now focused on harnessing advanced analytical techniques and machine learning.
+
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>SQL</b>
