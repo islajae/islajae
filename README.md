@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Isla! <br/><a href="https://www.linkedin.com/in/isla-altamirano-04300b106">Marketing Executive</a>, <a href="https://github.com/islajae">Data Professional</a>, <a href="https://fowldisposition.com">Small Business Owner</a></h1>
 
-<!--
-**islajae/islajae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>SQL</b>
+  - [123](https://github.com/joshmadakor1/AD_PS)
+  - [123](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>R</b>
+  - [123](https://github.com/joshmadakor1/EncrypterPOC)
+  - [123](https://github.com/joshmadakor1/DecrypterPOC)
+  - [123](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [123](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>✍️ Education/Certifications</h2>
+
+- University of Texas at Arlington - Communications, Minor in Information Technology
+- [Google Data Analytics Professional Certificate](https://)
+- [Python for Data Science, AI & Development](https://)
+
+
+<h2> 📫 How to reach me:</h2>
+
+[<img align="left" alt="Isla Altamirano | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][email]
+[<img align="left" alt="Isla Altamirano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[email]:  mailto:isla.altamirano94@gmail.com
+[linkedin]: https://www.linkedin.com/in/isla-altamirano-04300b106/
