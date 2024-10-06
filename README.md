@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isla! <br/><a href="https://www.linkedin.com/in/isla-altamirano-04300b106">Marketing Executive</a>, <a href="https://github.com/islajae">Data Professional</a>, <a href="https://fowldisposition.com">Small Business Owner</a></h1>
+<h1>Hi, I'm Isla! <br/><a href="https://www.linkedin.com/in/isla-altamirano-04300b106">Marketing Executive</a>, <a href="https://github.com/islajae">Data Professional</a></h1>
 
 <h2>👩 About Me:</h2>
 
@@ -19,7 +19,7 @@ My previous experience in marketing has helped me understand consumer behavior a
 <h2>✍️ Education/Certifications</h2>
 
 - University of Texas at Arlington - Communications, Minor in Information Technology
-- [Google Data Analytics Professional Certificate](https://)
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/9f48008d18fcb24e613d84d9ce94d43c)
 - [Python for Data Science, AI & Development](https://)
 - [UiPath, Automation Business Analysis](https://www.coursera.org/account/accomplishments/verify/817CGH18KQ6V)
 - [Data Storytelling with Power BI](https://)
