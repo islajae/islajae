@@ -7,14 +7,14 @@ My previous experience in marketing has helped me understand consumer behavior a
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>SQL</b>
-  - [NBC | DFW Media Feedback](https://github.com/)
+  - [NBC | DFW Feedback](https://github.com/)
   - [Dexerto | Community Growth (NA/EU)](https://github.com/)
 - <b>Tableau</b>
-  - [NBC | DFW Media Feedback](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Dexerto | Community Growth (NA/EU)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [NBC | DFW Feedback](https://github.com/)
+  - [Dexerto | Community Growth (NA/EU)](https://github.com/)
   - [Happiest Countries in the World](https://github.com/)
 - <b>Python</b>
-  - [123](https://github.com/)
+  - [OpTic Gaming | Contested](https://github.com/)
 
 <h2>✍️ Education/Certifications</h2>
 
