@@ -2,27 +2,25 @@
 
 <h2>👩 About Me:</h2>
 
-My previous experience in marketing has helped me understand consumer behavior and trends better which helped me transition into the field of data analytics and data science. Leveraging my expertise in analyzing market data, I am now focused on harnessing advanced analytical techniques and machine learning.
+My previous experience in marketing has helped me understand consumer behavior and trends better which helped me transition into the field of data analytics and data science. Leveraging my expertise in analyzing market data, I am now focused on harnessing advanced analytical techniques and data cleaning/modeling.
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>SQL</b>
-  - [123](https://github.com/joshmadakor1/AD_PS)
-  - [123](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>R</b>
-  - [123](https://github.com/joshmadakor1/EncrypterPOC)
-  - [123](https://github.com/joshmadakor1/DecrypterPOC)
-  - [123](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [NBC | DFW Media Feedback](https://github.com/)
+  - [Dexerto | Community Growth (NA/EU)](https://github.com/)
+- <b>Tableau</b>
+  - [NBC | DFW Media Feedback](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Dexerto | Community Growth (NA/EU)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Happiest Countries in the World](https://github.com/)
 - <b>Python</b>
-  - [123](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [123](https://github.com/)
 
 <h2>✍️ Education/Certifications</h2>
 
 - University of Texas at Arlington - Communications, Minor in Information Technology
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/9f48008d18fcb24e613d84d9ce94d43c)
-- [Python for Data Science, AI & Development](https://)
 - [UiPath, Automation Business Analysis](https://www.coursera.org/account/accomplishments/verify/817CGH18KQ6V)
-- [Data Storytelling with Power BI](https://)
 
 
 <h2> 📫 How to reach me:</h2>
