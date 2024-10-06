@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isla! <br/><a href="https://www.linkedin.com/in/isla-altamirano-04300b106">Marketing Executive</a>, <a href="https://github.com/islajae">Data Professional</a></h1>
+<h1>Hi, I'm Isla! <br/><a href="https://islaaltamirano.com">Marketing Executive</a>, <a href="https://github.com/islajae">Data Professional</a></h1>
 
 <h2>👩 About Me:</h2>
 
@@ -7,7 +7,7 @@ My previous experience in marketing has helped me understand consumer behavior a
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>SQL</b>
-  - <a href="https://github.com/" style="color: pink; text-decoration: underline;text-decoration-style: dotted;">[NBC | DFW Feedback]</a>[NBC | DFW Feedback](https://github.com/)
+  - [NBC | DFW Feedback](https://github.com/)
   - [Dexerto | Community Growth (NA/EU)](https://github.com/)
 - <b>Tableau</b>
   - [NBC | DFW Feedback](https://github.com/)
