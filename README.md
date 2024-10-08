@@ -7,7 +7,7 @@ My previous experience in marketing has helped me understand consumer behavior a
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>SQL</b>
-  - [NBC | DFW Feedback]([https://github.com/](https://github.com/islajae/SQL.portfolio/blob/main/NBC%20Feedback%20Stories%20Data))
+  - [NBC | DFW Feedback]([https://github.com/](https://github.com/islajae/SQL.portfolio/blob/main/NBC%20Feedback%20Stories%20Data)
   - [Dexerto | Community Growth (NA/EU)](https://github.com/)
 - <b>Tableau</b>
   - [NBC | DFW Feedback](https://github.com/)
