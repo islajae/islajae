@@ -8,7 +8,7 @@ My previous experience in marketing has helped me understand consumer behavior a
 
 - <b>SQL</b>
   - [NBC Feedback Stories Data](https://github.com/islajae/SQL.portfolio/blob/82123d1c6ed6fbc3d9d8eb526e345787af8b1cb4/NBC%20Feedback%20Stories%20Data)
-  - [Dexerto | Community Growth (NA/EU)]([https://github.com/](https://github.com/islajae/SQL.portfolio/blob/3e319696bbf492d99c95eac2ca6afb36a06fdcf5/Dexerto%20Community%20Growth)
+  - [Dexerto | Community Growth (NA/EU)](https://github.com/islajae/SQL.portfolio/blob/3e319696bbf492d99c95eac2ca6afb36a06fdcf5/Dexerto%20Community%20Growth)
 - <b>Tableau</b>
   - [NBC | DFW Feedback](https://github.com/)
   - [Dexerto | Community Growth (NA/EU)](https://github.com/)
