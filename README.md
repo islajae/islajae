@@ -15,6 +15,8 @@ My previous experience in marketing has helped me understand consumer behavior a
   - [Dexerto | Community Growth (NA/EU)](https://github.com/)
   - [Happiest Countries in the World](https://public.tableau.com/views/WorldHappinessSheets_17279001408440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - <b>Python</b>
+  - [Coming Soon](https://github.com/)
+- <b>R</b>
   - [OpTic Gaming | Contested](https://github.com/)
 
 <h2>✍️ Education/Certifications</h2>
