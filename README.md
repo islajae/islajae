@@ -12,7 +12,7 @@ My previous experience in marketing has helped me understand consumer behavior a
   - [Happiest Countries in the World](https://github.com/islajae/SQL.portfolio/blob/9c4f517e763c280fa075d921b55254b5c4399035/Happiest%20Countries%20in%20the%20World)
   - [(Full Analysis) Global Rise in Temperatures in Each Country](https://github.com/islajae/SQL-Full-Analysis/blob/main/README.md)
 - <b>Tableau</b>
-  - [Tableau Public Profile](https://public.tableau.com/app/profile/isla.altamirano/vizzes))
+  - [Tableau Public Profile](https://public.tableau.com/app/profile/isla.altamirano/vizzes)
 - <b>Python</b>
   - [Coming Soon](https://github.com/)
 - <b>R</b>
