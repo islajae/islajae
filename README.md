@@ -19,6 +19,8 @@ My previous experience in marketing has helped me understand consumer behavior a
   - [Coming Soon](https://github.com/)
 - <b>R</b>
   - [OpTic Gaming | Contested](https://github.com/)
+- <b>C#</b>
+-  [OpTic Gaming | Contested](https://github.com/)
 
 <h2>✍️ Education/Certifications</h2>
 
