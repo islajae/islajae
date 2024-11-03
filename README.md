@@ -14,11 +14,14 @@ My previous experience in marketing has helped me understand consumer behavior a
 - <b>Tableau</b>
   - [Tableau Public Profile](https://public.tableau.com/app/profile/isla.altamirano/vizzes)
 - <b>Python</b>
-  - [Coming Soon](https://github.com/)
+  - [__](https://github.com/)
+  - [__](https://github.com/)
 - <b>R</b>
-  - [OpTic Gaming | Contested](https://github.com/)
+  - [__](https://github.com/)
 - <b>C#</b>
--  [OpTic Gaming | Contested](https://github.com/)
+  - [OpTic Gaming | Contested](https://github.com/)
+- <b>Java</b>
+  - [__](https://github.com/)
 
 <h2>✍️ Education/Certifications</h2>
 
