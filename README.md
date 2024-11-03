@@ -31,6 +31,9 @@ My previous experience in marketing has helped me understand consumer behavior a
 - University of Texas at Arlington - Communications, Minor in Information Technology
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/9f48008d18fcb24e613d84d9ce94d43c)
 - [UiPath, Automation Business Analysis](https://www.coursera.org/account/accomplishments/verify/817CGH18KQ6V)
+- [Data Storytelling with Power BI](https://github.com/)
+- [C# For .NET Developers](https://github.com/)
+- [Fundamentals of Java Programming](https://github.com/)
 
 
 <h2> 📫 How to reach me:</h2>
